@@ -1,0 +1,18 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node_modules
+node_modules/
+
+# Ignore Python compiled files
+*.pyc
+__pycache__/
+
+# Ignore logs and temporary files
+logs/
+*.log
+tmp/
+
+# Ignore sensitive credentials
+.env
+myenv
