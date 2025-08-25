@@ -16,4 +16,5 @@ tmp/
 # Ignore sensitive credentials
 .env
 myenv
-src\final_code\fine_tuned_t5_crossword
+src/final_code/fine_tuned_t5_crossword/
+src/final_code/fine_tuned_t5_crossword/model.safetensors
