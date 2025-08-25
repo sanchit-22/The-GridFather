@@ -16,3 +16,5 @@ tmp/
 # Ignore sensitive credentials
 .env
 myenv
+
+The-GridFather\src\final_code\fine_tuned_t5_crossword
